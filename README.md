@@ -48,6 +48,8 @@ The dataset was provided on Coursera
    
 ### Findings
 1. Sales Report:
+   ![Sales Overview](https://github.com/user-attachments/assets/8dad4262-1a18-49e1-bff8-630d4fded879)
+
   - From the graph, we can observe that the UK has the highest loyalty points, indicating strong customer engagement, while the UAE has the lowest points, suggesting potential areas for improvement in customer loyalty initiatives
   - From the chart, we can see that Floral Wallpaper, Porcelain Dinner Set, and ProCarpenter Toolkit have the highest total quantity purchased, indicating that it is the best-selling product.
   - We can see that France has the largest portion of the pie, indicating that it has the highest median sales among all countries.
@@ -55,6 +57,8 @@ The dataset was provided on Coursera
   - As we can see, the line frequently rises and falls, indicating a high level of fluctuation in median sales over time. This suggests that sales have not followed a stable upward or downward trend, but rather have experienced volatility.
    
 2. Profit Report
+   ![Profit Overview](https://github.com/user-attachments/assets/ba723a36-006f-4907-aeb0-e56112ab9ce1)
+
 - The highest net revenue was gained by the Electric water heater.
 - The USA had the highest Yearly Profit Margin, while the UAE had the lowest.
 - The Yearly Profit Margin peaked thrice in August, showed a decline in the entire month of September, and stayed on top for a while during October.

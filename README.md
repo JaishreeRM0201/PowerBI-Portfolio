@@ -1,4 +1,4 @@
-# Project 1: Tailwind Traders Report
+# Tailwind Traders Report
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)

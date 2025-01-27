@@ -47,7 +47,7 @@ The dataset was provided on Coursera
 7. Dashboards.
    
 ### Findings
-1. Sales Report:
+#### 1. Sales Report:
    ![Sales Overview](https://github.com/user-attachments/assets/8dad4262-1a18-49e1-bff8-630d4fded879)
 
   - From the graph, we can observe that the UK has the highest loyalty points, indicating strong customer engagement, while the UAE has the lowest points, suggesting potential areas for improvement in customer loyalty initiatives
@@ -56,7 +56,7 @@ The dataset was provided on Coursera
   -  In contrast, Australia and UAE have the smallest slices, reflecting lower typical sales performance.
   - As we can see, the line frequently rises and falls, indicating a high level of fluctuation in median sales over time. This suggests that sales have not followed a stable upward or downward trend, but rather have experienced volatility.
    
-2. Profit Report
+#### 2. Profit Report
    ![Profit Overview](https://github.com/user-attachments/assets/ba723a36-006f-4907-aeb0-e56112ab9ce1)
 
 - The highest net revenue was gained by the Electric water heater.

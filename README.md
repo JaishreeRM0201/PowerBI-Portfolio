@@ -48,7 +48,7 @@ The dataset was provided on Coursera
    
 ### Findings
 #### 1. Sales Report:
-   ![Sales Overview](https://github.com/user-attachments/assets/8dad4262-1a18-49e1-bff8-630d4fded879)
+   ![Sales Overview](Sales Overview.jpg)
 
   - From the graph, we can observe that the UK has the highest loyalty points, indicating strong customer engagement, while the UAE has the lowest points, suggesting potential areas for improvement in customer loyalty initiatives
   - From the chart, we can see that Floral Wallpaper, Porcelain Dinner Set, and ProCarpenter Toolkit have the highest total quantity purchased, indicating that it is the best-selling product.

@@ -26,7 +26,7 @@ The dataset was provided on Coursera
 ### Key Objectives
 1. Sales Report:
    - Analyze how customers are affected by loyalty points across the countries.
-   - Identify the top-sold products along with their quantity.
+   - Identify the top-sold products and their quantity.
    - Analyze the median sales over time and its distribution across the countries.
      
 2. Profit Report:
@@ -51,7 +51,7 @@ The dataset was provided on Coursera
    ![Sales Overview](https://github.com/JaishreeRM0201/Traders_PowerBI_Report/blob/main/Sales%20Overview.jpg)
 
   - From the graph, we can observe that the UK has the highest loyalty points, indicating strong customer engagement, while the UAE has the lowest points, suggesting potential areas for improvement in customer loyalty initiatives
-  - From the chart, we can see that Floral Wallpaper, Porcelain Dinner Set, and ProCarpenter Toolkit have the highest total quantity purchased, indicating that it is the best-selling product.
+  - The chart shows that Floral Wallpaper, Porcelain Dinner Set, and ProCarpenter Toolkit have the highest total quantity purchased, indicating that it is the best-selling product.
   - We can see that France has the largest portion of the pie, indicating that it has the highest median sales among all countries.
   -  In contrast, Australia and UAE have the smallest slices, reflecting lower typical sales performance.
   - As we can see, the line frequently rises and falls, indicating a high level of fluctuation in median sales over time. This suggests that sales have not followed a stable upward or downward trend, but rather have experienced volatility.
@@ -59,7 +59,7 @@ The dataset was provided on Coursera
 #### 2. Profit Report
    ![Profit Overview](https://github.com/user-attachments/assets/ba723a36-006f-4907-aeb0-e56112ab9ce1)
 
-- The highest net revenue was gained by the Electric water heater.
+- The Electric water heater gained the highest net revenue.
 - The USA had the highest Yearly Profit Margin, while the UAE had the lowest.
 - The Yearly Profit Margin peaked thrice in August, showed a decline in the entire month of September, and stayed on top for a while during October.
   
